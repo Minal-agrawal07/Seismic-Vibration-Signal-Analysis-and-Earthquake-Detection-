@@ -42,6 +42,10 @@ Green dashed lines: detected event end times
 Requirements:
 MATLAB
 
+To run these files:
+first run generate_synthetic.m
+then .mat willl be created
+after that run test_model.m
 
 Final Results:
 
